@@ -1,0 +1,16 @@
+[
+    {
+        "Id": "PietroMag.MonedaDeOro", 
+        "GroupID": "PietroMag.Coins",
+        "Text": "coin.text", 
+        "Title": "coin.title",
+        "Attachments": [
+        {"Type": "Object", "Name":"Sol", "Stack": 5}, 
+        {"Type": "Object", "Name":"Peso", "Stack": 5}, 
+        {"Type": "Object", "Name":"Dolar", "Stack": 5}
+        ],                
+        "Repeatable": false,         
+        "Date": "1 spring Y1", 
+        "Seasons":  ["spring"]
+    }
+]

@@ -1,0 +1,25 @@
+{
+    "Name": "Dolar",
+    "Description": "Hecha por el Banco Federal de Latam.",
+    "Category": "Metal",
+    "Price": 1,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline","Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+    },
+    "NameLocalization":
+    {
+        "es": "Dolar"
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Hecha por el Banco Federal de Latam."
+    },
+    "ContextTags": [
+        "color_gold"
+    ]
+}

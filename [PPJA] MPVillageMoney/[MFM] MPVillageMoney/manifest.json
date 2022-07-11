@@ -1,0 +1,18 @@
+﻿{
+    "Name": "MPVillage Money Mail",
+    "Author": "PietroMag",
+    "Version": "1.0.1",
+    "Description": "Physical money mailed in Stardew Valley Multiplayer Server.",
+    "UniqueID": "PietroMag.MPVillageMoneyMail",
+    "MinimumApiVersion": "3.7.0",
+    "Dependencies": [
+    {
+        "UniqueID": "PietroMag.MPVillageMoney",
+        "IsRequired": true
+    } 
+],
+    "ContentPackFor":
+    {
+        "UniqueID": "DIGUS.MailFrameworkMod"
+    }
+}

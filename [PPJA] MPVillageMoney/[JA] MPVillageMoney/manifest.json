@@ -1,0 +1,13 @@
+{
+    "Name": "MPVillage Money",
+    "Author": "PietroMag",
+    "Description": "Physical money in Stardew Valley Multiplayer Server",
+    "Version": "1.0.1",
+    "MinimumApiVersion": "3.7.0",
+    "UniqueID": "PietroMag.MPVillageMoney",
+    "UpdateKeys": ["Nexus:???"],
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    }
+}

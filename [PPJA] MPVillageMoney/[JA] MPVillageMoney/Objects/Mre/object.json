@@ -1,0 +1,30 @@
+{
+    "Name": "MRE",
+    "Description": "¡Ready to preheat in the microwave!",
+    "Category": "Cooking",
+    "Price": 200,
+    "Edibility": 50,
+    "CanPurchase": true,
+    "EdibleIsDrink": false,
+    "EdibleBuffs":
+    {
+        "MaxStamina": 1,
+        "Speed": 1,
+        "Defense": 1,
+        "Duration": 25
+    },
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 200,
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "MRE"
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Listo para precalentar en el microondas!"
+    },
+    "ContextTags": [
+        "color_gold"
+    ]
+}
